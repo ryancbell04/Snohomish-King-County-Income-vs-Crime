@@ -4,6 +4,7 @@ library(dplyr)
 library(DT)
 
 # Load dataset
+# ADD MORE DATA SETS SHINY IS MISSING CRIME DATA
 data <- read.csv("merged_crime_income_data.csv")
 
 # UI
