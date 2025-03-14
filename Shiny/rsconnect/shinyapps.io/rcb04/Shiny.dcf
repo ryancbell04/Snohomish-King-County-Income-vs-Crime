@@ -1,0 +1,12 @@
+name: Shiny
+title: Shiny
+username: rcb04
+account: rcb04
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14247893
+bundleId: 9944954
+url: https://rcb04.shinyapps.io/Shiny/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
